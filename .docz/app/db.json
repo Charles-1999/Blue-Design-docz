@@ -1,0 +1,48 @@
+{
+  "config": {
+    "title": "Blue-Design",
+    "description": "My awesome app using docz",
+    "menu": [],
+    "repository": null,
+    "native": false,
+    "themeConfig": {},
+    "separator": "-",
+    "files": "./pages/**/**/*.{md,markdown,mdx}",
+    "dest": "doc-site",
+    "typescript": true
+  },
+  "entries": [
+    {
+      "key": "pages/feedback/alert/index.mdx",
+      "value": {
+        "name": "Alert 警告提示",
+        "route": "/Alert",
+        "menu": "反馈",
+        "id": "948a161f38c10ce79830cf0fc05a3be6",
+        "filepath": "pages/feedback/alert/index.mdx",
+        "fullpath": "/Users/charles/develop/blued-docz/pages/feedback/alert/index.mdx",
+        "link": "",
+        "hidden": false,
+        "slug": "pages-feedback-alert-index",
+        "headings": [
+          {
+            "slug": "alert-告警提示",
+            "depth": 1,
+            "value": "Alert 告警提示"
+          },
+          {
+            "slug": "代码演示",
+            "depth": 2,
+            "value": "代码演示"
+          },
+          {
+            "slug": "api",
+            "depth": 2,
+            "value": "API"
+          }
+        ]
+      }
+    }
+  ],
+  "props": []
+}
